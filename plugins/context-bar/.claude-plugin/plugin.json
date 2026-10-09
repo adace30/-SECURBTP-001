@@ -1,0 +1,17 @@
+{
+  "name": "context-bar",
+  "version": "0.2.0",
+  "description": "Barre verte du contexte consommé, total cumulé de tokens et coût en €, sous le prompt",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "eurPerUsd": {
+      "type": "number",
+      "title": "Taux EUR/USD",
+      "description": "Combien d'euros vaut 1 dollar, pour convertir le coût",
+      "default": 0.86
+    }
+  },
+  "author": {
+    "name": "adace30"
+  }
+}
