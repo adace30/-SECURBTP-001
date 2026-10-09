@@ -1,0 +1,11 @@
+{
+  "name": "securbtp-mods",
+  "owner": { "name": "adace30" },
+  "plugins": [
+    {
+      "name": "context-bar",
+      "source": "./plugins/context-bar",
+      "description": "Barre verte du contexte consommé, total cumulé de tokens et coût en €"
+    }
+  ]
+}
