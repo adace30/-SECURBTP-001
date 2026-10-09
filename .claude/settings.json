@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "securbtp-mods": {
+      "source": { "source": "github", "repo": "adace30/-SECURBTP-001" }
+    }
+  },
+  "enabledPlugins": {
+    "context-bar@securbtp-mods": true
+  }
+}
